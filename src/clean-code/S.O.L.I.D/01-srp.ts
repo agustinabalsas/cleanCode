@@ -3,6 +3,8 @@
 cada una con una responsabilidad única. 
 
     Puede aplicarse a módulo o funciones.
+
+    *Detectar violaciones de SRP
 */
 
 (() => {
