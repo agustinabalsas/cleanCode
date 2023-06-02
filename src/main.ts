@@ -1,5 +1,5 @@
 import './style.css'
-import './clean-code/S.O.L.I.D/02-open-close-a';
+import './clean-code/S.O.L.I.D/05-dependency-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
